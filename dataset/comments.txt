@@ -1,0 +1,102 @@
+<review>
+<review_text>
+i found your staff very helping and supportive. they possess good knowledge.
+</review_text>
+</review>
+
+<review>
+<review_text>
+The customer support was kind and i got an instant response. love your service.
+</review_text>
+</review>
+
+<review>
+<review_text>
+Hi
+my issue was instantly resolved. thank you for such great service. keep up the good work.
+</review_text>
+</review>
+
+<review>
+<review_text>
+support person is not upto the mark. very bad experience. no knowledge of the product.
+</review_text>
+</review>
+
+<review>
+<review_text>
+waiting time was very long. did not find proper solution to my problem. please train your person nicely. the person was dumb and irresponsive.
+
+</review_text>
+</review>
+
+<review>
+<review_text>
+no help from now. worst experience i ever had.
+</review_text>
+</review>
+
+
+<review>
+<review_text>
+I lost my adapter that came from Walmart and was a generic brand.  It worked perfect.  This thing was expensive and it didn't work at all.  I'd have to turn the volume on both the ipod and stereo all the way up and then I'd get some sign of life, not anything you'd want to listen to. It's worst than even the worst RF transmitter I've ever tried.  Don't waste your money, believe the reviews
+</review_text>
+</review>
+
+<review>
+<review_text>
+I bought this unit a couple of years ago based on its features, but soon discovered that it can't normally do the one thing that all GPSs should, tell you where you are.  I used my e-Trex Vista for about a year and half and would estimate that I spent 10% to 15% of the time staring at some type of lost signal message.  The unit is totally useless under any type of tree cover and often has trouble holding a signal anywhere on overcast days, which means about half the time in the Seattle area where I live.  I would not recommend this unit to anyone but my worst enemy
+</review_text>
+</review>
+
+<review>
+<review_text>
+I have paired this with my Linkysys wireless-g router and I have not had any problems with either. The modem installed without any issues. Prior to this modem I was using an RCA which began having connection problems. Since the Linksys install I have rock solid connection to the internet and a more stable wireless network. Previously I would expirience intermittant "drop outs" and would have to reboot. Currently I couldnt be more satisfied has been a good 3 month
+</review_text>
+</review>
+
+<review>
+<review_text>
+The product was easy to load onto my Windows based computer using Windows XP.  I connected everything as instructed and as soon as I plugged in the TV cable to the back of the modem, My internet explorer picked up the signal and put me at the log in page for new accounts of my cable provider.  
+
+The modem comes with both a USB and 100T ethernet adapter port, so use whatever way works best for you.  I tried them both and they appear to work at the same speed.  I am guessing it all depends on the speeds your cable provide is delivering.
+
+Amazon had the best price on the product if you have the time to wait for their free shipping.  I ordered some stuff from them in the past and the free shipping seemed to take forever.
+
+You may want to factor in paying the additional cost for shipping when buying this product if you need it right away. The price, even with the additional shipping charge is still a little less expensive than Best Buy.  The cost difference between buying it at a Best Buy store and Amazon online will not be much, and you'll have to wait a few days to have it in your hands, but you get to avoid the drive to the store.  I went this route, paid the extra shipping and waited for my package to arrive.  If time is not an issue, then use the free shipping method and you will discover that Amazons Price can't be beat, it is the lowest price anywhere. 
+</review_text>
+</review>
+
+<review><review_text>i hate this.not coming again NOT AT ALL.</review_text></review>
+
+
+<review><review_text>the response was very good. service provided is nice and less time taking.</review_text></review>
+<review><review_text>thank you for the great service. </review_text></review>
+<review><review_text>wow amazing service. great to talk to you.</review_text></review>
+<review><review_text>good</review_text></review>
+<review><review_text>very nice service great work</review_text></review>
+<review><review_text>hey great service! timely work done</review_text></review>
+<review><review_text>very bad service. disappointed.</review_text></review>
+<review><review_text>wow superb service</review_text></review>
+
+<review><review_text>You should think of improvement</review_text></review>
+<review><review_text>hey great service! timely work done</review_text></review>
+<review><review_text>Works very well with clients as well as all staff members</review_text></review>
+
+<review><review_text>Excels at providing timely feedback to even the most difficult customers Consistently gains necessary approvals and authorizations Is able easily to switch from English to Spanish and back again Is an empathetic and focused listener Skillfully overcomes customers objections Deals with challenging customers without becoming aggressive</review_text></review>
+<review><review_text>Excels at providing timely feedback to even the most difficult customers Consistently gains necessary approvals and authorizations Is able easily to switch from English to Spanish and back again Is an empathetic and focused listener Skillfully overcomes customers objections Deals with challenging customers without becoming aggressive</review_text></review>
+<review><review_text>great</review_text></review>
+<review><review_text>Excels at providing timely feedback to even the most difficult customers Consistently gains necessary approvals and authorizations Is able easily to switch from English to Spanish and back again Is an empathetic and focused listener Skillfully overcomes customers objections Deals with challenging customers without becoming aggressive</review_text></review>
+<review><review_text>Excels at providing timely feedback to even the most difficult customers Consistently gains necessary approvals and authorizations Is able easily to switch from English to Spanish and back again Is an empathetic and focused listener Skillfully overcomes customers objections Deals with challenging customers without becoming aggressive</review_text></review>
+<review><review_text>Excels at providing timely feedback to even the most difficult customers Consistently gains necessary approvals and authorizations Is able easily to switch from English to Spanish and back again Is an empathetic and focused listener Skillfully overcomes customers objections Deals with challenging customers without becoming aggressive</review_text></review>
+<review><review_text>Excels at providing timely feedback to even the most difficult customers Consistently gains necessary approvals and authorizations Is able easily to switch from English to Spanish and back again Is an empathetic and focused listener Skillfully overcomes customers objections Deals with challenging customers without becoming aggressive</review_text></review>
+<review><review_text>service as described</review_text></review>
+<review><review_text>item as described</review_text></review>
+<review><review_text>service as described</review_text></review>
+<review><review_text>very good service</review_text></review>
+
+<review><review_text>great service</review_text></review>
+<review><review_text>Loved the service. Thanks for your support.</review_text></review>
+<review><review_text>good so nice</review_text></review>
+<review><review_text>good great</review_text></review>
+<review><review_text>wow great service i love you</review_text></review>

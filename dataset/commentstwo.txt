@@ -1,0 +1,22 @@
+
+<review>
+<review_text>
+support person is not upto the mark. very bad experience. no knowledge of the product.
+</review_text>
+</review>
+
+<review>
+<review_text>
+waiting time was very long. did not find proper solution to my problem. please train your person nicely. the person was dumb and irresponsive.
+
+</review_text>
+</review>
+
+
+<review><review_text>Hi
+my issue was instantly resolved. thank you for such wonderful experience. keep up the good work.</review_text></review>
+
+
+
+<review><review_text>Loved the service. Thanks for your support.</review_text></review>
+<review><review_text>Great service!</review_text></review>
