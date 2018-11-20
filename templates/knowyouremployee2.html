@@ -1,0 +1,77 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<title>Customer Review profile!</title>
+	  
+</head>
+<body>
+
+	<div class="jumbotron" style="background-image:url(/static/picc.jpeg); background-size: 100% 100%;">
+	<h1  class="text-center font-weight-bold" style="color:purple">CUSTOMER SERVICE PORTAL</h1>
+	
+	<h2 class="text-center">EMPLOYEE TWO</h2>
+	<h4 class="text-center font-italic">Employee Two Rating: {{r}}</h4>
+	</div>
+
+	<div class="progress" style="margin-left:140px; margin-right:140px;">
+  <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar"
+  aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:{{csat}}%">
+    CSAT: {{csat}}% 
+  </div>
+</div>
+
+
+<div class="progress" style="margin-left:140px; margin-right:140px;">
+  <div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar"
+  aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:{{dsat}}%">
+    DSAT: {{dsat}}%
+  </div>
+</div>
+	
+	<div class="container">
+		<h3>Most Recent Comments</h3>
+	<table class="table">
+    <thead>
+      <tr>
+        <th>Comments</th>
+        <th>Sentiment</th>
+      </tr>
+    </thead>
+    <tbody>     
+      <tr class="danger">
+        <td>{{text1}}</td>
+        <td>{{r1}}</td>
+        
+      </tr>
+      <tr class="danger">
+         <td>{{text2}}</td>
+        <td>{{r2}}</td>
+      </tr>
+      <tr class="danger">
+        <td>{{text3}}</td>
+        <td>{{r3}}</td>
+      </tr>
+      <tr class="danger">
+       
+        <td>{{text4}}</td>
+        <td>{{r4}}</td>
+      </tr>
+      <tr class="danger">
+        
+        <td>{{text5}}</td>
+        <td>{{r5}}</td>
+        
+      </tr>
+    </tbody>
+  </table>
+</div>
+	
+
+</body>
+</html>

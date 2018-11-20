@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<title>Customer Review profile!</title>
+
+   
+	
+	  
+</head>
+<body background="/static/image.jpg">
+
+		<div class="jumbotron" style="background-image:url(/static/picc.jpeg); background-size: 100% 100%;">
+		<h1  class="text-center font-weight-bold" style="color:purple">CUSTOMER SERVICE PORTAL</h1>
+        <h2 class="text-center font-italic">Overall Rating: {{rating}}</h2>
+		</div>
+
+	
+
+	<div class="container" style="text-align:center">
+
+  		<div class="row">
+  			
+
+    		<div class="col-sm-6">
+    			<div class="thumbnail">
+
+    			<img class="img-responsive" src="/static/pone.png" style="width:200px; height:200px;"/>
+
+    			
+    			</div>
+      			
+      			<ul class="list-unstyled">
+      				<li class="font-weight-bold">Employee One</li>
+      				<li class="font-italic">Rating: {{r1}}</li>
+		
+					<li><a href="{{ url_for('knowyouremployee') }}" style="color:navy">Know Your Employee </a></li>
+					<li><a href="{{ url_for('employeeone') }}" style="color:navy">Give Your Feedback </a></li>
+
+      			</ul>
+
+				
+    		</div>
+    	
+    
+    		<div class="col-sm-6">
+    			<div class="thumbnail">
+    				<img class="img-responsive" src="/static/persontwo.png" style="width:200px; height:200px;"/>
+    			
+    		</div>
+    			
+    			<ul class="list-unstyled">
+            <li class="font-weight-bold">Employee Two</li>
+				    <li class="font-italic">Rating: {{r2}}</li>
+				    <li><a href="{{ url_for('knowyouremployee2') }}" style="color:navy">Know Your Employee </a></li>
+				    <li><a href="{{ url_for('employeetwo') }}" style="color:navy">Give Your Feedback</a></li>
+			</ul>
+      			
+    		</div>
+   
+  		</div>
+	</div>
+
+
+</body>
+</html>
